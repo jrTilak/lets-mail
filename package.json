@@ -1,0 +1,11 @@
+{
+  "name": "lets-mail",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev:server": "pnpm --filter server dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
