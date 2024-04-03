@@ -41,3 +41,6 @@ Body -
 ## Environment Variables
 
 See .env.example file for the environment variables
+
+## Limitations
+- You can only send maybe 500 mails per day using you gmail account in free tier.
