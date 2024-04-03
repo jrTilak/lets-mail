@@ -32,7 +32,7 @@ Body -
 
 ```json
 {
-  "to": "emailOfTheReceiver",
+  "to": "emailOfTheReceiver@example.com", //it can be an array of emails
   "subject": "Subject of the mail",
   "text": "Text of the mail" //or in html
 }
