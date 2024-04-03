@@ -1,5 +1,11 @@
 ## How to use this?
 
+You need to have Node.js installed on your machine. Also you need to have pnpm installed globally. If you don't have pnpm installed, you can install it by running the following command
+
+```bash
+npm install -g pnpm
+```
+
 1. Clone the repository
 2. Run the following command to install the dependencies
 
